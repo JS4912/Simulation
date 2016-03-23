@@ -1,0 +1,11 @@
+C:\Users\js4912\Desktop\Simulation\Simulation\bin\Debug\Simulation.exe.config
+C:\Users\js4912\Desktop\Simulation\Binaries\Simulation.exe.config
+C:\Users\js4912\Desktop\GitHub\Simulation\Binaries\Simulation.exe.config
+C:\Users\js4912\Desktop\GitHub\Simulation\Binaries\Simulation.exe
+C:\Users\js4912\Desktop\GitHub\Simulation\Binaries\Simulation.pdb
+C:\Users\js4912\Desktop\GitHub\Simulation\Source\obj\Debug\Simulation.csprojResolveAssemblyReference.cache
+C:\Users\js4912\Desktop\GitHub\Simulation\Source\obj\Debug\Simulation.Main.resources
+C:\Users\js4912\Desktop\GitHub\Simulation\Source\obj\Debug\Simulation.Properties.Resources.resources
+C:\Users\js4912\Desktop\GitHub\Simulation\Source\obj\Debug\Simulation.csproj.GenerateResource.Cache
+C:\Users\js4912\Desktop\GitHub\Simulation\Source\obj\Debug\Simulation.exe
+C:\Users\js4912\Desktop\GitHub\Simulation\Source\obj\Debug\Simulation.pdb
