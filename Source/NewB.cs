@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Simulation
+﻿namespace Simulation
 {
     class NewB
     {
+        public string ID { get; set; }
     }
 }
